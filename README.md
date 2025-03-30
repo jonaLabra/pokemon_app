@@ -17,7 +17,7 @@ This project is a test to show modular architecture and state managers to show h
 
 ## How to run project
 
-* To download project, you can clone this project in the button "Code" and select the HTTPS option.
+* To download project, got to https://github.com/jonaLabra/pokemon_app and you can clone this project in the button "Code" and select the HTTPS option.
 
 * Copy the url and go to terminal, to clone the repository.
 
@@ -27,7 +27,7 @@ This project is a test to show modular architecture and state managers to show h
 cd path/of/download
 ```
 
-* Write this comando to clone repository in your folder, put your user and password.
+* Write this comand to clone repository in your folder, put your user and password.
 
 ```git
 git clone https://github.com/jonaLabra/pokemon_app.git
