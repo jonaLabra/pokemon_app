@@ -1,18 +1,17 @@
 # pokemon_app
 
-A new Flutter project.
+Application to get data on the Pokémon available in the service that comes in our micro package
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a test to show modular architecture and state managers to show ho to implement a micro package in a project.
 
-A few resources to get you started if this is your first Flutter project:
+## How to works
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* In ours project we need show a list of pokemon will we get of mircro package which is hosted in a GitHub repository https://github.com/jonaLabra/micro_paquete_pokemon_service.git.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pokemon_app
+* This package we added it to our project in the pubspec.yaml file to use the service.
+
+* With the bloc pattern we manage the process of get the data and show in ours interface to show a list of pokemon available in the API.
+
 # pokemon_app
